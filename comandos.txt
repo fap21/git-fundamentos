@@ -1,0 +1,4 @@
+git init - inicializa o GIT
+git add "arquivo" - adiciona o arquivo para envio
+git commit -m "mensagem " - commita alterações
+git push -u origin - envia para servidor web
